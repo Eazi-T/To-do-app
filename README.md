@@ -28,7 +28,7 @@ cd todo-app
 ```
 CREATE DATABASE todo_db;
 ```
-3.Configure environment variables
+3. Configure environment variables
 Create a .env file with the following:
 ```
 DB_NAME=todo_db
