@@ -2,11 +2,13 @@
 A simple command-line To-Do List application built with Python and PostgreSQL for persistent storage. This project demonstrates clean modular structure and interaction with a relational database using psycopg2.
 
 ## 📂 Project Structure
+```
 todo-app/
 ├── app.py            # Main CLI interface for the to-do application
 ├── db.py             # Database connection and initialization logic
 ├── todo.py           # Core functionality: add, list, complete, delete tasks
 └── requirements.txt  # Python dependencies
+```
 
 ## 🚀 Features
 - Add new to-do tasks
